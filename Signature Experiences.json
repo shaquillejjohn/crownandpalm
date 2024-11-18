@@ -1,26 +1,13 @@
 {
   "trips": [
     {
-      "name": "Tropical Paradise",
-      "price": "$3,500",
-      "destination": "Bahamas",
-      "itinerary": "Day 1: Arrival, Day 2: Beach Excursion, Day 3: Spa Day",
-      "monthRange": "June - August",
-      "description": "A luxurious getaway with pristine beaches.",
-      "excursions": "Snorkeling, Sunset Cruise, Island Hopping",
-      "culture": "Explore Bahamian traditions and local cuisine.",
-      "cancellationPolicy": "Full refund up to 30 days before the trip."
-    },
-    {
-      "name": "Mountain Retreat",
-      "price": "$2,800",
-      "destination": "Colorado",
-      "itinerary": "Day 1: Check-in, Day 2: Guided Hike, Day 3: Relaxation",
-      "monthRange": "September - November",
-      "description": "A serene escape in the heart of the Rockies.",
-      "excursions": "Rock Climbing, Wildlife Tour, Campfire Stories",
-      "culture": "Experience the rustic charm and mountain culture.",
-      "cancellationPolicy": "50% refund up to 15 days before the trip."
+      "name": "Explore Volcanoes and Scenic Parks",
+      "price": "$4,495.00",
+      "destination": "Manila & Batangas, Philippines",
+      "month_range": "November - May",
+      "description": "Immerse yourself in Manila’s vibrant luxury and culture, then escape to Batangas’ serene beauty.",
+      "link": "https://www.crownandpalm.com",
+      "image_url": "https://images.squarespace-cdn.com/content/65372ab6842f3e4931359ebf/e37006ae-11de-49f9-9c1c-f015784b7528/Lake+Taal.png?content-type=image%2Fpng"
     }
   ]
 }
