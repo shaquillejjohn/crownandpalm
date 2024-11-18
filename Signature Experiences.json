@@ -1,0 +1,26 @@
+{
+  "trips": [
+    {
+      "name": "Tropical Paradise",
+      "price": "$3,500",
+      "destination": "Bahamas",
+      "itinerary": "Day 1: Arrival, Day 2: Beach Excursion, Day 3: Spa Day",
+      "monthRange": "June - August",
+      "description": "A luxurious getaway with pristine beaches.",
+      "excursions": "Snorkeling, Sunset Cruise, Island Hopping",
+      "culture": "Explore Bahamian traditions and local cuisine.",
+      "cancellationPolicy": "Full refund up to 30 days before the trip."
+    },
+    {
+      "name": "Mountain Retreat",
+      "price": "$2,800",
+      "destination": "Colorado",
+      "itinerary": "Day 1: Check-in, Day 2: Guided Hike, Day 3: Relaxation",
+      "monthRange": "September - November",
+      "description": "A serene escape in the heart of the Rockies.",
+      "excursions": "Rock Climbing, Wildlife Tour, Campfire Stories",
+      "culture": "Experience the rustic charm and mountain culture.",
+      "cancellationPolicy": "50% refund up to 15 days before the trip."
+    }
+  ]
+}
