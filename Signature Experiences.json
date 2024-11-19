@@ -38,6 +38,4 @@
     }
   ]
 }
-
-// Call the function to load trips
 loadTrips();
