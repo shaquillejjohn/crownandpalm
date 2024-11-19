@@ -1,4 +1,5 @@
-{
+// Sample JSON data
+const jsonData = {
   "trips": [
     {
       "name": "Explore Volcanoes and Scenic Parks",
@@ -37,4 +38,29 @@
       "image_url": "https://images.squarespace-cdn.com/content/65372ab6842f3e4931359ebf/3714940c-28fe-41a8-aa14-7c9fd5453d2e/Las+Vegas.png?content-type=image%2Fpng"
     }
   ]
+};
+
+// Function to load trips into the grid
+function loadTrips() {
+  const tripGrid = document.querySelector('.trip-grid'); // Make sure this matches your HTML element
+  tripGrid.innerHTML = ''; // Clear any existing content
+
+  jsonData.trips.forEach(trip => {
+    const tripItem = document.createElement('div');
+    tripItem.classList.add('trip-item');
+
+    tripItem.innerHTML = `
+      <img src="${trip.image_url}" alt="${trip.name}" class="trip-image">
+      <h3 class="trip-title">${trip.name}</h3>
+      <h4>${trip.destination}</h4>
+      <p class="p_body">${trip.description}</p>
+      <p class="trip-price">${trip.price}</p>
+      <a href="${trip.link}" class="trip-button">Learn More</a>
+    `;
+
+    tripGrid.appendChild(tripItem);
+  });
 }
+
+// Call the function to load trips
+loadTrips();
