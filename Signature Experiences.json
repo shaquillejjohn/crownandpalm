@@ -8,6 +8,7 @@
       "description": "Immerse yourself in Manila’s vibrant luxury and culture, then escape to Batangas’ serene beauty. Enjoy guided tours through vibrant cities and tranquil beaches, with one free day to unwind or explore on your own.",
       "link": "https://www.crownandpalm.com/philippines",
       "image_url": "https://images.squarespace-cdn.com/content/65372ab6842f3e4931359ebf/e37006ae-11de-49f9-9c1c-f015784b7528/Lake+Taal.png?content-type=image%2Fpng"
+      "type_badge": "Adventure"
     },
     {
       "name": "Riviera Thrills: Cancun to Tulum Adventure",
@@ -17,6 +18,7 @@
       "description": "Choose your stay: the quiet northern Punta Sam, vibrant nightlife in Cancun's Hotel Zone, or the pristine Isla Mujeres. Experience ziplining, jet-propelled scuba diving, hiking, and water sports. Then, take a scenic road trip to Tulum for its serene beaches, cenotes, and Mayan ruins. Wrap up with a relaxing free day to enjoy as you like.",
       "link": "https://www.crownandpalm.com/tulum-cancun",
       "image_url": "https://images.squarespace-cdn.com/content/65372ab6842f3e4931359ebf/9973493d-629f-42ed-8f1f-d0635a98ee95/Tulum+Ruins.png?content-type=image%2Fpng"
+      "type_badge": "Adventure"
     },
     {
       "name": "Miami Bliss: A Romantic Escape",
@@ -26,6 +28,7 @@
       "description": "Indulge in romance with couples’ massages and a luxurious day at Nikki Beach Club. Explore Miami’s lush gardens, art deco streets, and waterfront dining. Balance relaxation and adventure with a mix of curated experiences. Conclude with a free day for intimate memories or leisure at your own pace.",
       "link": "https://www.crownandpalm.com/miami",
       "image_url": "https://images.squarespace-cdn.com/content/65372ab6842f3e4931359ebf/adcfa7cb-ac3b-4b27-b29c-80ff761f92e8/3.png?content-type=image%2Fpng"
+      "type_badge": "Romance"
     },
     {
       "name": "Desert Luxe: Las Vegas Beyond the Strip",
@@ -35,6 +38,7 @@
       "description": "Discover the luxurious desert adventures that Vegas offers, from camel rides and ATV tours to serene desert sunsets. Unwind at the Canyon Ranch Spa for ultimate relaxation. Venture off the Strip for nature excursions, while keeping evenings free for upscale dining and entertainment. Enjoy a free day to soak in the grandeur.",
       "link": "https://www.crownandpalm.com/vegas",
       "image_url": "https://images.squarespace-cdn.com/content/65372ab6842f3e4931359ebf/3714940c-28fe-41a8-aa14-7c9fd5453d2e/Las+Vegas.png?content-type=image%2Fpng"
+      "type_badge": "Adventure"
     }
   ]
 }
