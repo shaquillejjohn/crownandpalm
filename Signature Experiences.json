@@ -12,16 +12,24 @@
       "duration": "5 Days, 4 Nights",
       "images": [
         {
-          "url": "https://images.squarespace-cdn.com/content/65372ab6842f3e4931359ebf/e37006ae-11de-49f9-9c1c-f015784b7528/Lake+Taal.png?content-type=image%2Fpng",
-          "caption": "Breathtaking view of Lake Taal and its surroundings."
+          "url": "https://images.squarespace-cdn.com/content/65372ab6842f3e4931359ebf/d8755726-668c-4d60-8696-adc58761f8cd/Manila%2C+Philippines+%E2%80%94+Metro+Manila.png?content-type=image%2Fpng",
+          "caption": "Arial view of Metro Manila, Philippines."
         },
         {
-          "url": "https://images.squarespace-cdn.com/content/65372ab6842f3e4931359ebf/1729603861314-JMX7JM71HFY8OT6RDBZB/unsplash-image-4aqH2utAPAs.jpg?content-type=image%2Fjpeg",
-          "caption": "Manila's vibrant cityscape at night."
+          "url": "https://images.squarespace-cdn.com/content/65372ab6842f3e4931359ebf/eed94a8a-7a08-4c48-8d16-518f37071ad5/Jeepney+%E2%80%94+Transportation+in+Manila.png?content-type=image%2Fpng",
+          "caption": "Colorful Jeepneys: The heart of Filipino street culture and iconic local transport."
         },
         {
-          "url": "https://images.squarespace-cdn.com/content/65372ab6842f3e4931359ebf/1729553353619-UOMJQAUZ83RY5B3U458U/shutterstock_2330015141.jpg?content-type=image%2Fjpeg",
-          "caption": "Manila's vibrant cityscape at night."
+          "url": "https://images.squarespace-cdn.com/content/65372ab6842f3e4931359ebf/be2fa4bf-a0ae-4a6c-a1ec-46d3c3ec8831/Lake+Taal+Tours.png?content-type=image%2Fpng",
+          "caption": "Brightly painted outrigger boats rest on the shores of Lake Taal, offering serene views of the iconic volcano."
+        }
+        {
+          "url": "https://images.squarespace-cdn.com/content/65372ab6842f3e4931359ebf/2de01498-e3fb-4523-8878-31e15dfb9433/Nasugbu%2C+Batangas+Beach.png?content-type=image%2Fpng",
+          "caption": "Batangas’ beaches boast powdery sands and crystal-clear waters, perfect for a tropical escape."
+        }
+        {
+          "url": "https://images.squarespace-cdn.com/content/65372ab6842f3e4931359ebf/565fc5b3-dbe8-48d3-974c-2edd77dba4e2/Lake+Taal+Volano.png?content-type=image%2Fpng",
+          "caption": "Majestic Taal Volcano Crater: A serene lake nestled within nature’s masterpiece."
         }
       ]
     },
