@@ -5,31 +5,16 @@
       "price": "$4,495.00",
       "destination": "Manila & Batangas, Philippines",
       "month_range": "November - May",
-      "description": "Immerse yourself in Manila’s vibrant luxury and culture, where the bustling city meets historic landmarks and world-class dining. Wander through its centuries-old streets, marvel at iconic architecture, and indulge in the warmth of Filipino hospitality. Then, escape to the serene beauty of Batangas, where lush greenery and scenic parks await. Take in breathtaking views of majestic volcanoes, unwind by pristine beaches, and explore the tranquil countryside that offers a perfect retreat from the city’s energy. Whether you’re seeking adventure, relaxation, or both, this experience blends urban sophistication with nature’s splendor.",
+      "description": "Immerse yourself in Manila’s vibrant luxury and culture, where the bustling city meets historic landmarks and world-class dining...",
       "link": "https://www.crownandpalm.com/philippines",
-      "image_url": "https://images.squarespace-cdn.com/content/65372ab6842f3e4931359ebf/e37006ae-11de-49f9-9c1c-f015784b7528/Lake+Taal.png?content-type=image%2Fpng",
+      "image_url": "https://images.squarespace-cdn.com/content/65372ab6842f3e4931359ebf/e37006ae-11de-49f9-9c1c-f015784b7528/Lake+Taal.png",
       "type_badge": "Adventure",
       "duration": "9 Days, 8 Nights",
+      "make_it_happen_link": "https://www.crownandpalm.com/book-a-signature-experience?tripKey=explore_volcanoes",
       "images": [
         {
-          "url": "https://images.squarespace-cdn.com/content/65372ab6842f3e4931359ebf/d8755726-668c-4d60-8696-adc58761f8cd/Manila%2C+Philippines+%E2%80%94+Metro+Manila.png?content-type=image%2Fpng",
+          "url": "https://images.squarespace-cdn.com/content/65372ab6842f3e4931359ebf/d8755726-668c-4d60-8696-adc58761f8cd/Manila%2C+Philippines.png",
           "caption": "Arial view of Metro Manila, Philippines."
-        },
-        {
-          "url": "https://images.squarespace-cdn.com/content/65372ab6842f3e4931359ebf/eed94a8a-7a08-4c48-8d16-518f37071ad5/Jeepney+%E2%80%94+Transportation+in+Manila.png?content-type=image%2Fpng",
-          "caption": "Colorful Jeepneys: The heart of Filipino street culture and iconic local transport."
-        },
-        {
-          "url": "https://images.squarespace-cdn.com/content/65372ab6842f3e4931359ebf/be2fa4bf-a0ae-4a6c-a1ec-46d3c3ec8831/Lake+Taal+Tours.png?content-type=image%2Fpng",
-          "caption": "Brightly painted outrigger boats rest on the shores of Lake Taal, offering serene views of the iconic volcano."
-        },
-        {
-          "url": "https://images.squarespace-cdn.com/content/65372ab6842f3e4931359ebf/2de01498-e3fb-4523-8878-31e15dfb9433/Nasugbu%2C+Batangas+Beach.png?content-type=image%2Fpng",
-          "caption": "Batangas’ beaches boast powdery sands and crystal-clear waters, perfect for a tropical escape."
-        },
-        {
-          "url": "https://images.squarespace-cdn.com/content/65372ab6842f3e4931359ebf/565fc5b3-dbe8-48d3-974c-2edd77dba4e2/Lake+Taal+Volano.png?content-type=image%2Fpng",
-          "caption": "Majestic Taal Volcano Crater: A serene lake nestled within nature’s masterpiece."
         }
       ]
     },
@@ -38,19 +23,16 @@
       "price": "$3,250.00",
       "destination": "Tulum & Cancun, Mexico",
       "month_range": "December - April",
-      "description": "Choose your stay: the quiet northern Punta Sam, vibrant nightlife in Cancun's Hotel Zone, or the pristine Isla Mujeres. Experience ziplining, jet-propelled scuba diving, hiking, and water sports. Then, take a scenic road trip to Tulum for its serene beaches, cenotes, and Mayan ruins. Wrap up with a relaxing free day to enjoy as you like.",
+      "description": "Choose your stay: the quiet northern Punta Sam, vibrant nightlife in Cancun's Hotel Zone, or the pristine Isla Mujeres...",
       "link": "https://www.crownandpalm.com/tulum-cancun",
-      "image_url": "https://images.squarespace-cdn.com/content/65372ab6842f3e4931359ebf/9973493d-629f-42ed-8f1f-d0635a98ee95/Tulum+Ruins.png?content-type=image%2Fpng",
+      "image_url": "https://images.squarespace-cdn.com/content/65372ab6842f3e4931359ebf/9973493d-629f-42ed-8f1f-d0635a98ee95/Tulum+Ruins.png",
       "type_badge": "Adventure",
       "duration": "6 Days, 5 Nights",
+      "make_it_happen_link": "https://www.crownandpalm.com/book-a-signature-experience?tripKey=riviera_thrills",
       "images": [
         {
-          "url": "https://images.squarespace-cdn.com/content/65372ab6842f3e4931359ebf/9973493d-629f-42ed-8f1f-d0635a98ee95/Tulum+Ruins.png?content-type=image%2Fpng",
+          "url": "https://images.squarespace-cdn.com/content/65372ab6842f3e4931359ebf/9973493d-629f-42ed-8f1f-d0635a98ee95/Tulum+Ruins.png",
           "caption": "Pristine Tulum beaches and Mayan ruins."
-        },
-        {
-          "url": "https://example.com/cancun-nightlife.jpg",
-          "caption": "Vibrant nightlife in Cancun's Hotel Zone."
         }
       ]
     },
@@ -59,19 +41,16 @@
       "price": "$2,800.00",
       "destination": "Miami, Florida, USA",
       "month_range": "March - August",
-      "description": "Indulge in romance with couples’ massages and a luxurious day at Nikki Beach Club. Explore Miami’s lush gardens, art deco streets, and waterfront dining. Balance relaxation and adventure with a mix of curated experiences. Conclude with a free day for intimate memories or leisure at your own pace.",
+      "description": "Indulge in romance with couples’ massages and a luxurious day at Nikki Beach Club...",
       "link": "https://www.crownandpalm.com/miami",
-      "image_url": "https://images.squarespace-cdn.com/content/65372ab6842f3e4931359ebf/adcfa7cb-ac3b-4b27-b29c-80ff761f92e8/3.png?content-type=image%2Fpng",
+      "image_url": "https://images.squarespace-cdn.com/content/65372ab6842f3e4931359ebf/adcfa7cb-ac3b-4b27-b29c-80ff761f92e8/3.png",
       "type_badge": "Romance",
       "duration": "4 Days, 3 Nights",
+      "make_it_happen_link": "https://www.crownandpalm.com/book-a-signature-experience?tripKey=miami_bliss",
       "images": [
         {
-          "url": "https://images.squarespace-cdn.com/content/65372ab6842f3e4931359ebf/adcfa7cb-ac3b-4b27-b29c-80ff761f92e8/3.png?content-type=image%2Fpng",
+          "url": "https://images.squarespace-cdn.com/content/65372ab6842f3e4931359ebf/adcfa7cb-ac3b-4b27-b29c-80ff761f92e8/3.png",
           "caption": "Miami's lush gardens and iconic architecture."
-        },
-        {
-          "url": "https://example.com/nikki-beach.jpg",
-          "caption": "Relax and unwind at Nikki Beach Club."
         }
       ]
     },
@@ -80,19 +59,16 @@
       "price": "$3,995.00",
       "destination": "Las Vegas, Nevada, USA",
       "month_range": "September - December",
-      "description": "Discover the luxurious desert adventures that Vegas offers, from camel rides and ATV tours to serene desert sunsets. Unwind at the Canyon Ranch Spa for ultimate relaxation. Venture off the Strip for nature excursions, while keeping evenings free for upscale dining and entertainment. Enjoy a free day to soak in the grandeur.",
+      "description": "Discover the luxurious desert adventures that Vegas offers, from camel rides and ATV tours to serene desert sunsets...",
       "link": "https://www.crownandpalm.com/vegas",
-      "image_url": "https://images.squarespace-cdn.com/content/65372ab6842f3e4931359ebf/3714940c-28fe-41a8-aa14-7c9fd5453d2e/Las+Vegas.png?content-type=image%2Fpng",
+      "image_url": "https://images.squarespace-cdn.com/content/65372ab6842f3e4931359ebf/3714940c-28fe-41a8-aa14-7c9fd5453d2e/Las+Vegas.png",
       "type_badge": "Adventure",
       "duration": "5 Days, 4 Nights",
+      "make_it_happen_link": "https://www.crownandpalm.com/book-a-signature-experience?tripKey=desert_luxe",
       "images": [
         {
-          "url": "https://images.squarespace-cdn.com/content/65372ab6842f3e4931359ebf/3714940c-28fe-41a8-aa14-7c9fd5453d2e/Las+Vegas.png?content-type=image%2Fpng",
+          "url": "https://images.squarespace-cdn.com/content/65372ab6842f3e4931359ebf/3714940c-28fe-41a8-aa14-7c9fd5453d2e/Las+Vegas.png",
           "caption": "Serene desert sunset in Las Vegas."
-        },
-        {
-          "url": "https://example.com/canyon-ranch.jpg",
-          "caption": "Relax in luxury at the Canyon Ranch Spa."
         }
       ]
     }
