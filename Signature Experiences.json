@@ -1,6 +1,7 @@
 {
   "trips": [
     {
+      "tripKey": "explore_volcanoes",
       "name": "Explore Volcanoes and Scenic Parks",
       "price": "$4,495.00",
       "destination": "Manila & Batangas, Philippines",
@@ -34,6 +35,7 @@
       ]
     },
     {
+      "tripKey": "riviera_thrills",
       "name": "Riviera Thrills: Cancun to Tulum Adventure",
       "price": "$3,250.00",
       "destination": "Tulum & Cancun, Mexico",
@@ -55,6 +57,7 @@
       ]
     },
     {
+      "tripKey":"miami_bliss",
       "name": "Miami Bliss: A Romantic Escape",
       "price": "$2,800.00",
       "destination": "Miami, Florida, USA",
@@ -76,6 +79,7 @@
       ]
     },
     {
+      "tripKey": "desert_luxe",
       "name": "Desert Luxe: Las Vegas Beyond the Strip",
       "price": "$3,995.00",
       "destination": "Las Vegas, Nevada, USA",
